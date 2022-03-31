@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "command": "tyarn run start",
+      "name": "Start Project",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+    {
+      "command": "tyarn run build",
+      "name": "Build Project",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+    {
+      "command": "tyarn run analyze",
+      "name": "Build And Know What Can We Optimize The Project",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+    {
+      "command": "tyarn run lint",
+      "name": "Check Project",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+    {
+      "command": "tyarn run lint:fix",
+      "name": "Check And Fix Project",
+      "request": "launch",
+      "type": "node-terminal"
+    }
+  ]
+}
