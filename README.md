@@ -102,6 +102,10 @@
 ## 快速开始
 
 ```bash
+tyarn              # 安装项目依赖
+```
+
+```bash
 tyarn run start    # 启动项目
 ```
 
