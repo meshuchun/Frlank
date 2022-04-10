@@ -25,21 +25,29 @@
 因此，我做了【Frlank 编程社区】，一个专注编程学习的网站。有了它，大家可以直接一站式**在线刷题、上课、写代码，告别搜索和求人，大大提高学习效率**。希望它能帮助大家提高编程学习的能力。
 
 ## 项目介绍
-1.人员：
-  lgy(名字缩写)淦前端
-  jhw(干测试运行)
-  wyh（名字缩写）淦后端
-  jbw是主攻后端开发的（这位是最高管理者）
-  fhh主攻前端
-  zsc（名字缩写）是运维，前台，客服（超级忙碌）
-2.github项目地址：https://github.com/meshuchun/Frlank（废话）
-3.大本营：https://code.xueersi.com/?action=loginToHome
-4.通讯器：http://101.43.183.163/index.php?action=page.index
-5.语言：
-  前端：Vue.js
-  后端：Python的Django
-  数据库：MongoDB搭配Redis和Elasticsearch
-6.目前情况：已经在开发中，普通的小测试已经写好了，服务器也有了
+
+- 人员：
+
+  - lgy(名字缩写)淦前端
+  - jhw(干测试运行)
+  - wyh（名字缩写）淦后端
+  - jbw是主攻后端开发的（这位是最高管理者）
+  - fhh主攻前端
+  - zsc（名字缩写）是运维，前台，客服（超级忙碌）
+
+- github项目地址：https://github.com/meshuchun/Frlank（废话）
+
+- 大本营：https://code.xueersi.com/?action=loginToHome
+
+- 通讯器：http://101.43.183.163/index.php?action=page.index
+
+- 语言：
+- 
+  - 前端：Vue.js
+  - 后端：Python的Django
+  - 数据库：MongoDB搭配Redis和Elasticsearch
+
+- 目前情况：已经在开发中，普通的小测试已经写好了，服务器也有了
 
 ## 优势
 
