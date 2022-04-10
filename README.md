@@ -37,7 +37,7 @@
   - fhh主攻前端
   - zsc（名字缩写）是运维，前台，客服（超级忙碌）
 
-- github项目地址：https://github.com/meshuchun/Frlank（废话）
+- github项目地址：https://github.com/meshuchun/Frlank
 
 - 大本营：https://code.xueersi.com/?action=loginToHome
 
