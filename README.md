@@ -26,6 +26,8 @@
 
 ## 项目介绍
 
+**请以此为准！**
+
 - 人员：
 
   - lgy(名字缩写)淦前端
@@ -107,10 +109,11 @@
 - 语法扩展：TypeScript、Less
 - 打包工具：Webpack
 - 代码规范：ESLint、StyleLint、Prettier
+- 主语言：JavaScript(Vue.js)
 
 ### 后端
 
-- 主语言：JavaScript（Node.js）
+- 主语言：JavaScript（Node.js）,Django
 - 开发框架：Express（Express Session）
 - 数据库：MongoDB
 - 中间件：Redis、Elasticsearch
@@ -133,6 +136,13 @@ tyarn run build    # 构建项目
 ```
 
 ## 项目初始开发团队
+
+- lgy(名字缩写)淦前端
+- jhw(干测试运行)
+- wyh（名字缩写）淦后端
+- jbw是主攻后端开发的（这位是最高管理者）
+- fhh主攻前端
+- zsc（名字缩写）是运维，前台，客服（超级忙碌）
 
 ## 欢迎贡献
 
