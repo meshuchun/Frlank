@@ -42,7 +42,7 @@
 - 通讯器：http://101.43.183.163/index.php?action=page.index
 
 - 语言：
-- 
+
   - 前端：Vue.js
   - 后端：Python的Django
   - 数据库：MongoDB搭配Redis和Elasticsearch
